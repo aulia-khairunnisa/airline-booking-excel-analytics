@@ -32,3 +32,8 @@ An interactive analytics dashboard was constructed using **Pivot Tables**, **Piv
 1. Clone or download this repository.
 2. Open `Airline Booking Management System.xlsx` using Microsoft Excel (2019 or newer recommended).
 3. Interact with the **Pivot Tables** and check the formulas applied in the `Master_Data` and `Airline_Booking` tabs.
+
+## 💬 Let's Connect! I am actively seeking Data Analyst opportunities where I can bridge the gap between complex data pipelines and corporate strategy.
+
+LinkedIn: https://linkedin.com/in/aulia-khairunnisa
+Email: aulkhairn@gmail.com
